@@ -1,0 +1,11 @@
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\bin\Debug\netcoreapp3.1\MatrixLayerRotationPOC.exe
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\bin\Debug\netcoreapp3.1\MatrixLayerRotationPOC.deps.json
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\bin\Debug\netcoreapp3.1\MatrixLayerRotationPOC.runtimeconfig.json
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\bin\Debug\netcoreapp3.1\MatrixLayerRotationPOC.runtimeconfig.dev.json
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\bin\Debug\netcoreapp3.1\MatrixLayerRotationPOC.dll
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\bin\Debug\netcoreapp3.1\MatrixLayerRotationPOC.pdb
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\obj\Debug\netcoreapp3.1\MatrixLayerRotationPOC.csprojAssemblyReference.cache
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\obj\Debug\netcoreapp3.1\MatrixLayerRotationPOC.AssemblyInfoInputs.cache
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\obj\Debug\netcoreapp3.1\MatrixLayerRotationPOC.AssemblyInfo.cs
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\obj\Debug\netcoreapp3.1\MatrixLayerRotationPOC.dll
+E:\Users\marco\source\repos\MatrixLayerRotationPOC\MatrixLayerRotationPOC\obj\Debug\netcoreapp3.1\MatrixLayerRotationPOC.pdb
